@@ -19,4 +19,4 @@ https://blenderartists.org/t/texture-image-crop-in-node-editor/1130537/17
 
 ## License
 
-For detail, see [Acknowledgements](#Acknowledgements). I think this can be Public Domain (in my opinion).
+For detail, see [Acknowledgements](#acknowledgements). I think this can be Public Domain (in my opinion).
