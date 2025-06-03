@@ -8,7 +8,7 @@ Note: Currently UVCrop node is contained in [UVCrop.blend](./UVCrop.blend) file,
 
 ## TODO
 
-- Installation Guide
+- Installation Guide (as for now, please see [this thread on blender StackExchange](https://blender.stackexchange.com/questions/270632/how-can-i-save-a-node-group-for-later-use-without-going-through-a-blend-file))
 - Make this into blender extension (addon)
 
 ## Acknowledgements
