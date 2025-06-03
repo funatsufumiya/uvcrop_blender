@@ -19,4 +19,4 @@ https://blenderartists.org/t/texture-image-crop-in-node-editor/1130537/17
 
 ## License
 
-For detail, see [Acknowledgements](#acknowledgements). I think this can be considered as a Public Domain (in my opinion), but the original author is [`@Fallirini` (Tomáš Luža)](https://blenderartists.org/u/Fallirini) .
+For detail, see [Acknowledgements](#acknowledgements). The original author is [`@Fallirini` (Tomáš Luža)](https://blenderartists.org/u/Fallirini) . By checking [Terms of Service of blenderartists.org](https://blenderartists.org/tos), user contributions are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.en).
