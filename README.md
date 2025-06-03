@@ -4,7 +4,7 @@
 
 ![screenshot_uvcrop](./screenshot_uvcrop.png)
 
-Note: Currently UVCrop node is contained in [UVCrop.blend](./UVCrop.blend) file.
+Note: Currently UVCrop node is contained in [UVCrop.blend](./UVCrop.blend) file, as a node group of shader node.
 
 ## TODO
 
