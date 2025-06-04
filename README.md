@@ -1,6 +1,6 @@
 # UVCrop on Blender Shader Node
 
-![screenshot_usage](./screenshot_usage.png?v2)
+![screenshot_usage](./screenshot_usage.png)
 
 ![screenshot_uvcrop](./screenshot_uvcrop.png)
 
@@ -14,7 +14,7 @@ This node group named `UV Crop`, enables UV cropping and clamping (with clamped 
 
 ## Usage
 
-![usage](./usage.png?v2)
+![usage](./usage.png)
 
 - Connect your UV vector into `UV` input.
 - `Left` / `Right` / `Bottom` / `Top` indicates crop area (from 0 to 1. **Please note that blender coordiates is left-bottom based**.)
