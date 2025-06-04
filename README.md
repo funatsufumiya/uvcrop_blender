@@ -14,13 +14,13 @@ This node group named `UV Crop`, enables UV cropping and clamping (with clamped 
 
 ## Usage
 
-![usage](./usage.png)
+![usage](./usage.png?v2)
 
 - Connect your UV vector into `UV` input.
 - `Left` / `Right` / `Bottom` / `Top` indicates crop area (from 0 to 1. **Please note that blender coordiates is left-bottom based**.)
 - You can move your texture by `X`, `Y`.
 - You can toggle clamping by `Clamp`.
-- `IsInRange` output can be used as alpha or white-black value indicates clamping area.
+- `Clamped Alpha` output can be used as alpha or white-black value indicates clamping area (NOTE: this always output alpha even if `Clamp` is OFF).
 
 ## Acknowledgements
 
