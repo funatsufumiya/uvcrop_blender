@@ -6,8 +6,8 @@
 
 ## Install
 
-- Install [NodePresets](https://extensions.blender.org/add-ons/node-presets/) addon from blender extension.
-- Copy [UVCrop.blend](./UVCrop.blend) file into your directory of NodePresets.
+- Install [Node Presets](https://extensions.blender.org/add-ons/node-presets/) addon from blender extension.
+- Copy [UVCrop.blend](./UVCrop.blend) file into your directory of Node Presets.
 - You can now add `UV Crop` node by "Node > Add > Template > UV Crop".
 
 ## Usage
