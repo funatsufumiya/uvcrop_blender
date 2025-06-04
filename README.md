@@ -4,6 +4,8 @@
 
 ![screenshot_uvcrop](./screenshot_uvcrop.png)
 
+This node group named `UV Crop`, enables UV cropping and clamping (with clamped alpha output).
+
 ## Install
 
 - Install [Node Presets](https://extensions.blender.org/add-ons/node-presets/) addon from blender extension.
