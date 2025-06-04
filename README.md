@@ -1,6 +1,6 @@
 # UVCrop on Blender Shader Node
 
-![screenshot_usage](./screenshot_usage.png)
+![screenshot_usage](./screenshot_usage.png?v2)
 
 ![screenshot_uvcrop](./screenshot_uvcrop.png)
 
