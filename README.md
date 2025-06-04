@@ -4,12 +4,21 @@
 
 ![screenshot_uvcrop](./screenshot_uvcrop.png)
 
-Note: Currently UVCrop node is contained in [UVCrop.blend](./UVCrop.blend) file, as a node group of shader node.
+## Install
 
-## TODO
+- Install NodePresets addon from blender extension.
+- Copy [UVCrop.blend](./UVCrop.blend) file into your directory of NodePresets.
+- You can now add `UV Crop` node by "Node > Add > Template > UV Crop".
 
-- Installation Guide (as for now, please see [this thread on blender StackExchange](https://blender.stackexchange.com/questions/270632/how-can-i-save-a-node-group-for-later-use-without-going-through-a-blend-file), or simply "File > Append" [UVCrop.blend](./UVCrop.blend) into your blender file)
-- Make this into blender extension (addon)
+## Usage
+
+![usage](./usage.png)
+
+- Connect your UV vector into `UV` input.
+- `Left` / `Right` / `Bottom` / `Top` indicates crop area (from 0 to 1. **Please note that blender coordiates is left-bottom based**.)
+- You can move your texture by `X`, `Y`.
+- You can toggle clamping by `Clamp`.
+- `IsInRange` output can be used as alpha or white-black value indicates clamping area.
 
 ## Acknowledgements
 
